@@ -51,6 +51,7 @@ const TeamMatches: NextPage = () => {
           gutterBottom
           variant="h4"
           component="h4"
+          mb={5}
           color={theme.palette.error.main}
         >
           Матчи
